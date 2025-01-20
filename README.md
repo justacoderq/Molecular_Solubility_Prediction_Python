@@ -3,6 +3,9 @@
 
 This project predicts the **Solubility (LogS)** values of molecules based on their molecular descriptors. The model is trained using a dataset from the **John S. Delaney**, containing solubility values and molecular descriptors.
 
+![image](https://github.com/user-attachments/assets/f05faca8-7158-4165-9f42-d7400d19b4c9)
+
+
 ----------------------------
 
 ## Project Overview
